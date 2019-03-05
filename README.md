@@ -1,3 +1,5 @@
+* This repository is DEPRECATED! The development continues in the [ATMOSPHERE project](https://github.com/eubr-atmosphere/tma-framework-p/tree/master/development) *
+
 # TMA Planning
 
 This project aims to:
